@@ -4,8 +4,6 @@ Allow users to stake their ERC20 tokens in return for more/other ERC20 tokens!
 
 In this repo, we are using [thirdweb ContractKit](https://thirdweb.com/contractkit) and writing a custom ERC-20 staking contract.
 
-You can read [the guide associated to this repo](https://blog.thirdweb.com/build-an-erc20-staking-smart-contract-web-application/).
-
 ## How to use
 
 Clone this repo to have this repo locally.
